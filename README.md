@@ -2,7 +2,7 @@
 
 #### Author: Wael Khalil
 
-## Program Purpose
+## Project Purpose
 The purpose of this project is to gain insights on the Iris dataset using various algorithms implemented in the data science field.
 
 Note:
@@ -14,7 +14,7 @@ PyCharm has a free version on their website if a download is needed: [PyCharm CE
 
 ---
 
-## Program Purpose
+## Project Breakdown
 The purpose of this program is to perform some analysis on the iris dataset. 
 This analysis involves our program:
 - Demonstrating plots that allow us to visually see two sets of features and the
@@ -23,7 +23,6 @@ This analysis involves our program:
 - Outlier detection and removal in each class
 - Demonstrating plots of our detected outliers 
 - Feature Ranking using two different techniques
-
 
 ---
 
