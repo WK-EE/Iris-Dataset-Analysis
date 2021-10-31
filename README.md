@@ -1,7 +1,9 @@
 # Iris-Dataset-Analysis
-The purpose of this project is to gain insights on the Iris dataset using various algorithms implemented in the data science field.
 
 #### Author: Wael Khalil
+
+## Program Purpose
+The purpose of this project is to gain insights on the Iris dataset using various algorithms implemented in the data science field.
 
 Note:
 This document is written in [Markdown](https://dillinger.io/). Use the link to render if needed. 
