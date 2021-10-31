@@ -59,7 +59,7 @@ Optional Arguments: None
       `The guide you are currently reading.`
     * iris_data_analysis/: 
       `This is our module that holds all our python scripts and our entry point to the program.`
-      * \__init\__.py 
+      * \_\_init\_\_.py 
         `This file is used to expose what functions, variable, classes, etc are exposed when scripts import this module`
-      * \__main\__.py 
+      * \_\_main\_\_.py 
         `This file is the entrypoint to our program when ran as a program.`
