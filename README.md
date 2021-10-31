@@ -34,7 +34,7 @@ Note: This program is built using Python 3.7 or later. The IDE used while buildi
 3. Run the program as a module with real inputs: `python3 -m iris_data_analysis`
 
 The program outputs .xlsx files containing our sorted features. These .xlsx files will be written to
-an output directory called 'Problem1_Sorted_Data'. This directory is located inside the package of our 
+an output directory called 'Sorted_Data'. This directory is located inside the package of our 
 program.
 
 ---
