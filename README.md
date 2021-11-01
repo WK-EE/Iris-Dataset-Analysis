@@ -63,3 +63,20 @@ Optional Arguments: None
         `This file is used to expose what functions, variable, classes, etc are exposed when scripts import this module`
       * \_\_main\_\_.py 
         `This file is the entrypoint to our program when ran as a program.`
+        
+ ---
+
+## Sample Results Overview
+
+#### Feature Ranking
+<img src="results_snapshots/Feature_Ranking_1.png" alt="Feature_Ranking" width="500"/>
+<img src="results_snapshots/Feature_Ranking_2.png" alt="Feature_Ranking" width="500"/>
+
+#### Top 10 Features and their Corresponding Scores
+<img src="results_snapshots/Top_10_Features.png" alt="Top_K_Features" width="500"/>
+
+#### Model Accuracy vs Top K Features Used 
+<img src="results_snapshots/Model_Accuracy_vs_Top_K_Ranked_Features.png" alt="Model_Comparison" width="500"/>
+
+#### Model Accuracy Values with Various Top K Features
+<img src="results_snapshots/Model_Accuracy_Values.png" alt="Model_Accuracy" width="500"/>
