@@ -76,7 +76,7 @@ Optional Arguments: None
 <img src="results_snapshots/Virginica_Outliers_Visualization.png" alt="Outliers_Visualization" width="500"/>
 
 #### Feature Ranking Scores
-<img src="results_snapshots/Feature_Ranking_Results.png" alt="Feature_Ranking" width="500"/>
+<img src="results_snapshots/Feature_Ranking_Results.png" alt="Feature_Ranking" width="300"/>
 
 #### Sorted Sepal Length Featrue
-<img src="results_snapshots/Sorted_Sepal_Length_Feature.png" alt="Sorted_Feature" width="350"/>
+<img src="results_snapshots/Sorted_Sepal_Length_Feature.png" alt="Sorted_Feature" width="300"/>
