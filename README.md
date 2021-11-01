@@ -70,7 +70,6 @@ Optional Arguments: None
 
 #### Features Visualization
 <img src="results_snapshots/Features_Visualization.png" alt="Features_Visualization" width="500"/>
-<img src="results_snapshots/Feature_Ranking_2.png" alt="Feature_Ranking" width="500"/>
 
 #### Outliers Visualization
 <img src="results_snapshots/Virginica_Outliers_Visualization.png" alt="Outliers_Visualization" width="500"/>
