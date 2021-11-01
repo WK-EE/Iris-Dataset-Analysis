@@ -68,15 +68,15 @@ Optional Arguments: None
 
 ## Sample Results Overview
 
-#### Feature Ranking
-<img src="results_snapshots/Feature_Ranking_1.png" alt="Feature_Ranking" width="500"/>
+#### Features Visualization
+<img src="results_snapshots/Features_Visualization.png" alt="Features_Visualization" width="500"/>
 <img src="results_snapshots/Feature_Ranking_2.png" alt="Feature_Ranking" width="500"/>
 
-#### Top 10 Features and their Corresponding Scores
-<img src="results_snapshots/Top_10_Features.png" alt="Top_K_Features" width="500"/>
+#### Outliers Visualization
+<img src="results_snapshots/Virginica_Outliers_Visualization.png" alt="Outliers_Visualization" width="500"/>
 
-#### Model Accuracy vs Top K Features Used 
-<img src="results_snapshots/Model_Accuracy_vs_Top_K_Ranked_Features.png" alt="Model_Comparison" width="500"/>
+#### Feature Ranking Scores
+<img src="results_snapshots/Feature_Ranking_Results.png" alt="Feature_Ranking" width="500"/>
 
-#### Model Accuracy Values with Various Top K Features
-<img src="results_snapshots/Model_Accuracy_Values.png" alt="Model_Accuracy" width="500"/>
+#### Sorted Sepal Length Featrue
+<img src="results_snapshots/Sorted_Sepal_Length_Feature.png" alt="Sorted_Feature" width="500"/>
